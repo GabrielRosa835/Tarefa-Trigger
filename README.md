@@ -1,10 +1,14 @@
 # Atividade individual - Tema: Exemplos (TRIGGERS)
 
+GABRIEL ROSA DA SILVA, RA 237069
+
 MODELO LÓGICO: <br/>
-![1](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/e7c14be1-46b7-46c3-a708-e75e4070deb7)
+![7](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/d9ace0b3-41f6-4b63-aace-9eedd649daa5)
+![8](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/95fec02b-618f-4217-a10c-598618a40e04)
 
-PRIMEIRO INSERT (SEM TRIGGER / INSERÇÃO MANUAL DE DATA): <br/>
-![2](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/c2d96561-5f47-4b1b-9c8a-3ccd79d08752)
+PRIMEIRO INSERT (COM TRIGGER => TORNA VALORES <0 NULOS): <br/>
+![4](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/a84bf789-dfb8-4ae6-b71b-837f555425f6)
 
-SEGUNDO INSERT (COM TRIGGER / INSERÇÃO AUTOMÁTICA DE DATA): <br/>
-![3](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/cbcf0504-f62f-4734-b384-9253a45a7ff4)
+DELETANDO ALGUNS ITENS (COM TRIGGER DE CRIAÇÃO DE LOG): <br/>
+![6](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/89dc5978-33cf-47b9-989b-73464f2a97b1)
+![5](https://github.com/GabrielRosa835/Tarefa-Trigger/assets/150252238/4d621714-361b-4b82-87f9-e23c326e5545)
